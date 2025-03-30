@@ -27,4 +27,14 @@
 
     No hace falta que este el "tp1_1.exe".
 
+    ### g.Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué? Responder en el archivo readme.md
+
+    Pude notar que dan los mismos resultados ya que el puntero almacena a la variable, entonces al querer mostrar la direccion de memoria de la variable almacenada en el puntero dara la misma direccion de la variable original.
+
+    En el punto 4 se obtiene la direccion de memoria del punetero, en mi caso fue este: "Direccion de memoria del puntero: 000000bed3bff760"
+    Es diferente porque es una varable de tipo puntero.
+
+
+
+
 
